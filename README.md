@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rj-rl
 - 👀 Man, I don't even have an opinion
-- 🌱 I’m currently learning how to shoot own legs with C++
+- 🌱 I’m currently learning how to shoot own feet with C++
 - 💞️ :-)
 
 <!---
