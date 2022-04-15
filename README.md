@@ -1,7 +1,5 @@
-- 👋 Hi, I’m @rj-rl
+- 💞️ Currently learning how to shoot own feet with C++ :-)
 - 👀 Man, I don't even have an opinion
-- 🌱 I’m currently learning how to shoot own feet with C++
-- 💞️ :-)
 
 <!---
 rj-rl/rj-rl is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
